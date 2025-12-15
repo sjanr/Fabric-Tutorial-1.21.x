@@ -8,6 +8,7 @@ import org.slf4j.LoggerFactory;
 public class TutorialMod implements ModInitializer {
 	public static final String MOD_ID = "templatemod";
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
+	// test comment
 
 	@Override
 	public void onInitialize() {
